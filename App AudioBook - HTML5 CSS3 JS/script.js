@@ -7,7 +7,6 @@ const audioCapitulo = document.getElementById("audio-capitulo");
 const numeroCapitulos = 10;
 
 let taTocando = false;
-
 let capituloAtual = 1;
 
 function tocarFaixa() {

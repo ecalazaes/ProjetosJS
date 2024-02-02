@@ -7,7 +7,7 @@ const miniaturaImagem2 = document.getElementById("2-imagem-miniatura");
 
 const verdeCipreste = {
   nome: "Verde-Cipreste",
-  pasta: "imagens-verde-cipreste",
+  pasta: "imagens-verde-cipreste", 
 };
 
 const azulInverno = {

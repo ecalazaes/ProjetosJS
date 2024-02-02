@@ -17,7 +17,7 @@ function tocarFaixa() {
 
 function pausarFaixa() {
   audioCapitulo.pause();
-  botaoPlayPause.classList.add("bi-play-circle-fill");
+  botaoPlayPause.classList.add("bi-play-circle-fill"); 
   botaoPlayPause.classList.remove("bi-pause-circle-fill");
 }
 

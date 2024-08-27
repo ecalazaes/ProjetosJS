@@ -20,7 +20,7 @@ Este repositório contém uma coleção de projetos desenvolvidos com JavaScript
    - **Tecnologias**: HTML5, CSS3, JavaScript
    - **Descrição**: Reprodução fiel de uma página da Apple, focando no design responsivo e na interatividade utilizando HTML5, CSS3 e JavaScript.
 
-##Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
